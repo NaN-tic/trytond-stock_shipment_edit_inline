@@ -2,3 +2,5 @@
 # copyright notices and license terms.
 
 from .test_stock_shipment_edit_inline import suite
+
+__all__ = ['suite']
